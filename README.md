@@ -1,5 +1,5 @@
 <h3 align="center">Hello, I'm Pedro</h3>
-🌱 I’m currently learning React, MongoDB, Express and NodeJS (MERN)
+🌱 I’m currently learning NextJS, Typescript and AJAX
 
 💻 My projects are available at [https://pedro-lauro451.github.io/projects-page/](https://pedro-lauro451.github.io/projects-page/)
 
