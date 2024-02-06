@@ -1,5 +1,5 @@
 <h3 align="center">Hello, I'm Pedro</h3>
-🌱 I’m currently learning NextJS and NodeJS
+🌱 I’m currently learning C#
 
 💻 My projects are available at [https://pedro-lauro451.github.io/projects-page/](https://pedro-lauro451.github.io/projects-page/)
 
